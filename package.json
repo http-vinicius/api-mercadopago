@@ -3,5 +3,11 @@
     "express": "^4.17.1",
     "mercadopago": "^1.5.8",
     "node": "^16.6.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
