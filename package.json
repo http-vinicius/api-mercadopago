@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "mercadopago": "^1.5.8"
+    "mercadopago": "^1.5.8",
+    "node": "^16.6.1"
   }
 }
